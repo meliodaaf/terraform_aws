@@ -1,2 +1,2 @@
 lab_*/.terraform*
-lab_*/terraform.tfstate*
+lab_*/terraform.tfstate
