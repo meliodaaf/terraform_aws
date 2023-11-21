@@ -1,0 +1,2 @@
+lab_*/.terraform*
+lab_*/terraform.tfstate*
