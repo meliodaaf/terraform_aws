@@ -2,3 +2,10 @@ lab_*/.terraform*
 lab_*/terraform.tfstate*
 lab_*/*.tfvars
 lab_*/code-script.yml
+
+*/*/*/.terraform*
+*/*/*/terraform.tfstate*
+
+*/*/.terraform/*
+*/*/.terraform*
+*/*/terraform.tfstate*
